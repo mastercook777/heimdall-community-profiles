@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "profiles": [
+    {
+      "id": "gba-sennen-kazoku",
+      "name": "GBA - 千年家族",
+      "author": "mastercook777",
+      "category": "Emulator",
+      "description": "GBA lower-screen layout for 千年家族, with 4 macros and 5 layout modules.",
+      "preview": "https://raw.githubusercontent.com/mastercook777/heimdall-community-profiles/main/previews/gba-sennen-kazoku.jpg",
+      "previewSha256": "0cd7ee983e1920384d30e7e1a79dd23b9fc3f894258462b0bdea2e52ae820fa2",
+      "previewSize": 26022,
+      "minVersionCode": 5,
+      "minHeimdallVersion": "0.2.0-alpha.1",
+      "sha256": "7179e369685e34080e2636097a2b028014372b8ac280beb1ad7881e58a4bcf0d",
+      "size": 3794130,
+      "downloads": [
+        {
+          "source": "github",
+          "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/gba-sennen-kazoku.heimdall-profile"
+        }
+      ]
+    }
+  ]
+}
