@@ -22,15 +22,16 @@ distributed through GitHub Releases.
 
 | Profile | Platform | Notes |
 | --- | --- | --- |
-| GBA - 千年家族 | RetroArch (`com.retroarch.aarch64`) | 4 macros, 5 layout modules |
-| PSP - Castlevania: Symphony of the Night | PSP | 7 macros, 6 layout modules |
-| GBA - Fire Emblem: The Sacred Stones | GBA | 4 macros, 5 layout modules |
-| GBA - Kirby & the Amazing Mirror | GBA | 7 macros, 5 layout modules |
+| 千年家族 | RetroArch (`com.retroarch.aarch64`) | 4 macros, 5 layout modules |
+| Castlevania: SoTN | PSP | 7 macros, 6 layout modules |
+| Fire Emblem: Sacred Stones | GBA | 4 macros, 5 layout modules |
+| Kirby: Amazing Mirror | GBA | 7 macros, 5 layout modules |
 | Trails in the Sky 1st | Game | 6 macros, 7 layout modules |
 | Delta Force | PC game / streaming | 8 macros, 4 layout modules |
 | PS2 Universal | PS2 | 10 macros, 5 layout modules, maps and guide |
 | Where Winds Meet | PC game | 6 macros, 5 layout modules |
 | PSP Universal | PSP | 4 macros, 5 layout modules |
+| GBA Universal | RetroArch (`com.retroarch.aarch64`) | Translation, 3 macros, 5 layout modules |
 
 ## Repository layout
 
@@ -39,7 +40,14 @@ catalog.json
 previews/
   gba-sennen-kazoku.jpg
   ...
+screenshots/
+  gba-sennen-kazoku.png
+  ...
 ```
+
+`preview` provides the small navigation icon or artwork. `screenshot` provides the
+complete Heimdall Profile home-page preview. Both assets may declare exact byte size
+and SHA-256 metadata; Profile ZIP contents and import behavior remain independent.
 
 Profile bundles are attached to Releases and are intentionally not committed to the
 default branch.
