@@ -14,12 +14,154 @@
       "minHeimdallVersion": "0.2.0-alpha.1",
       "sha256": "7179e369685e34080e2636097a2b028014372b8ac280beb1ad7881e58a4bcf0d",
       "size": 3794130,
-      "downloads": [
-        {
-          "source": "github",
-          "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/gba-sennen-kazoku.heimdall-profile"
-        }
-      ]
+      "downloads": [{
+        "source": "github",
+        "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/gba-sennen-kazoku.heimdall-profile"
+      }]
+    },
+    {
+      "id": "psp-sotn",
+      "name": "PSP - Castlevania: Symphony of the Night",
+      "author": "mastercook777",
+      "category": "Emulator",
+      "description": "PSP layout for Castlevania: Symphony of the Night, with 7 macros and 6 layout modules.",
+      "preview": "https://raw.githubusercontent.com/mastercook777/heimdall-community-profiles/main/previews/psp-sotn.jpg",
+      "previewSha256": "fc09a5c29738d0e9e48977980ff8dac4267e5dbc010b73fbd80a2968473a82f4",
+      "previewSize": 426692,
+      "minVersionCode": 5,
+      "minHeimdallVersion": "0.2.0-alpha.1",
+      "sha256": "cebe5349283eb3844c3001d1d1b2761312525fac57fa1253fc5d00b8fa066bb5",
+      "size": 1114688,
+      "downloads": [{
+        "source": "github",
+        "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/psp-sotn.heimdall-profile"
+      }]
+    },
+    {
+      "id": "gba-fire-emblem-sacred-stones",
+      "name": "GBA - Fire Emblem: The Sacred Stones",
+      "author": "mastercook777",
+      "category": "Emulator",
+      "description": "GBA layout for Fire Emblem: The Sacred Stones, with 4 macros, 5 layout modules, and bundled reference assets.",
+      "preview": "https://raw.githubusercontent.com/mastercook777/heimdall-community-profiles/main/previews/gba-fire-emblem-sacred-stones.png",
+      "previewSha256": "da15c8c72e6604d9ed410f06c745f8028b29bda5f27ebb20dad8c00be2773359",
+      "previewSize": 2751750,
+      "minVersionCode": 5,
+      "minHeimdallVersion": "0.2.0-alpha.1",
+      "sha256": "318bbcacc1af80edf16bd2c27eeb7c57d1e209bf8ca674261b99fbac60174273",
+      "size": 4874918,
+      "downloads": [{
+        "source": "github",
+        "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/gba-fire-emblem-sacred-stones.heimdall-profile"
+      }]
+    },
+    {
+      "id": "gba-kirby-amazing-mirror",
+      "name": "GBA - Kirby & the Amazing Mirror",
+      "author": "mastercook777",
+      "category": "Emulator",
+      "description": "GBA layout for Kirby & the Amazing Mirror, with 7 macros and 5 layout modules.",
+      "preview": "https://raw.githubusercontent.com/mastercook777/heimdall-community-profiles/main/previews/gba-kirby-amazing-mirror.jpg",
+      "previewSha256": "3a56f380f04790c0b04f9da425a6bc24f329834a00c8be36ea57d1de9a2f3603",
+      "previewSize": 276097,
+      "minVersionCode": 5,
+      "minHeimdallVersion": "0.2.0-alpha.1",
+      "sha256": "161bbe2454c68478457cd5c946e39a06a804e1cf7f3acb9fcbaefcc625abd3e3",
+      "size": 2499558,
+      "downloads": [{
+        "source": "github",
+        "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/gba-kirby-amazing-mirror.heimdall-profile"
+      }]
+    },
+    {
+      "id": "trails-in-the-sky-1st",
+      "name": "Trails in the Sky 1st",
+      "author": "mastercook777",
+      "category": "Game",
+      "description": "Game layout for Trails in the Sky 1st, with 6 macros, 7 layout modules, and bundled reference images.",
+      "preview": "https://raw.githubusercontent.com/mastercook777/heimdall-community-profiles/main/previews/trails-in-the-sky-1st.png",
+      "previewSha256": "bbb239ddf783e02434379be7d03d3f89f533c648247bacb1ba261485cd77618c",
+      "previewSize": 2658826,
+      "minVersionCode": 5,
+      "minHeimdallVersion": "0.2.0-alpha.1",
+      "sha256": "3dd59db0179ddcbfe98477f01c87f9bae2b60ffea0686ee11f451555f03d4c7e",
+      "size": 5559009,
+      "downloads": [{
+        "source": "github",
+        "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/trails-in-the-sky-1st.heimdall-profile"
+      }]
+    },
+    {
+      "id": "delta-force",
+      "name": "Delta Force",
+      "author": "mastercook777",
+      "category": "PC Game",
+      "description": "PC streaming layout for Delta Force, with 8 macros and 4 layout modules.",
+      "preview": "https://raw.githubusercontent.com/mastercook777/heimdall-community-profiles/main/previews/delta-force.webp",
+      "previewSha256": "de35d837df24b188693421b451edf8ee5869395b5125882dc83921ebb2c084ec",
+      "previewSize": 22516,
+      "minVersionCode": 5,
+      "minHeimdallVersion": "0.2.0-alpha.1",
+      "sha256": "8be7c1f30a932647807d10dc4d1673e1729b4e632b0c7f7a5c8a1b1fec121947",
+      "size": 23343,
+      "downloads": [{
+        "source": "github",
+        "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/delta-force.heimdall-profile"
+      }]
+    },
+    {
+      "id": "ps2-universal",
+      "name": "PS2 Universal",
+      "author": "mastercook777",
+      "category": "Emulator",
+      "description": "Universal PS2 layout with 10 macros, 5 layout modules, maps, and a bundled guide.",
+      "preview": "https://raw.githubusercontent.com/mastercook777/heimdall-community-profiles/main/previews/ps2-universal.jpg",
+      "previewSha256": "57c0d01a08d0b6a526d18bd306a8b1d48fed5b58969fa098bf3ed3a376125a83",
+      "previewSize": 225560,
+      "minVersionCode": 5,
+      "minHeimdallVersion": "0.2.0-alpha.1",
+      "sha256": "59d5db667f6c4f366630186375d3eaa91bb56e57d74ef0fda2f0b874abbb1bb5",
+      "size": 1009892,
+      "downloads": [{
+        "source": "github",
+        "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/ps2-universal.heimdall-profile"
+      }]
+    },
+    {
+      "id": "where-winds-meet",
+      "name": "Where Winds Meet",
+      "author": "mastercook777",
+      "category": "PC Game",
+      "description": "Game layout for Where Winds Meet, with 6 macros and 5 layout modules.",
+      "preview": "https://raw.githubusercontent.com/mastercook777/heimdall-community-profiles/main/previews/where-winds-meet.jpg",
+      "previewSha256": "9b24801d75e806897e36d8e68034953c3b3daefc065600d4ea77bd0707dcf8ab",
+      "previewSize": 142684,
+      "minVersionCode": 5,
+      "minHeimdallVersion": "0.2.0-alpha.1",
+      "sha256": "747ead8e519cf16656b87c139b1fefdbba90f4b0c7ff951937ca858c9bf9cfbf",
+      "size": 373682,
+      "downloads": [{
+        "source": "github",
+        "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/where-winds-meet.heimdall-profile"
+      }]
+    },
+    {
+      "id": "psp-universal",
+      "name": "PSP Universal",
+      "author": "mastercook777",
+      "category": "Emulator",
+      "description": "Universal PSP layout with 4 macros, 5 layout modules, and bundled reference assets.",
+      "preview": "https://raw.githubusercontent.com/mastercook777/heimdall-community-profiles/main/previews/psp-universal.jpg",
+      "previewSha256": "e39487113fdea5d34eba710d6ee28bdd9167e49ac6f603f9493d6121ba96e4c4",
+      "previewSize": 165569,
+      "minVersionCode": 5,
+      "minHeimdallVersion": "0.2.0-alpha.1",
+      "sha256": "55890e54711fad121e78e0ef9b18b39f46c075720bf17cf5f2ca761f148c3ee2",
+      "size": 716803,
+      "downloads": [{
+        "source": "github",
+        "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/psp-universal.heimdall-profile"
+      }]
     }
   ]
 }
