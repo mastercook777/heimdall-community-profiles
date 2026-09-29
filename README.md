@@ -1,12 +1,12 @@
 # Heimdall Community Profiles
 
 Heimdall 的官方精选 Profile 目录。这个仓库独立于 Heimdall 应用源码仓库，
-只保存静态 `catalog.json`、预览图和发布说明；自包含 `.heimdall-profile`
+只保存静态 `catalog.json`、Profile 图标、主页截图和发布说明；自包含 `.heimdall-profile`
 文件通过 GitHub Releases 分发。
 
 The official curated Profile catalog for Heimdall. This repository is independent
 from the Heimdall application source repository. It contains only the static catalog,
-preview images, and documentation; self-contained `.heimdall-profile` bundles are
+Profile icons, home screenshots, and documentation; self-contained `.heimdall-profile` bundles are
 distributed through GitHub Releases.
 
 ## 当前范围 / Current scope
@@ -37,6 +37,9 @@ distributed through GitHub Releases.
 
 ```text
 catalog.json
+icons/
+  gba.png
+  ...
 previews/
   gba-sennen-kazoku.jpg
   ...
@@ -45,9 +48,13 @@ screenshots/
   ...
 ```
 
-`preview` provides the small navigation icon or artwork. `screenshot` provides the
-complete Heimdall Profile home-page preview. Both assets may declare exact byte size
-and SHA-256 metadata; Profile ZIP contents and import behavior remain independent.
+`icon` is the Profile's own `iconUri` asset extracted unchanged from its bundle and
+is the only remote image used by the compact navigation list. When it is missing,
+Heimdall uses a local initial fallback; it never substitutes `preview` or another
+image from the Profile. `screenshot` provides the separately curated complete
+Heimdall Profile home-page image. `preview` remains optional legacy discovery
+metadata. Assets may declare exact byte size and SHA-256 metadata; Profile ZIP
+contents and import behavior remain independent.
 
 Profile bundles are attached to Releases and are intentionally not committed to the
 default branch.
