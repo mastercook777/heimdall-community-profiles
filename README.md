@@ -27,9 +27,9 @@ distributed through GitHub Releases.
 | 火焰之纹章：圣魔之光石 | GBA | 4 macros, 5 layout modules |
 | 星之卡比：镜之大迷宫 | GBA | 7 macros, 5 layout modules |
 | 空之轨迹 1st | Game | 6 macros, 7 layout modules |
-| Delta Force | PC game / streaming | 8 macros, 4 layout modules |
+| Delta Force | Android 游戏 | 8 macros, 4 layout modules |
 | PS2 通用 | PS2 | 10 macros, 5 layout modules, maps and guide |
-| 燕云十六声 | PC game | 6 macros, 5 layout modules |
+| 燕云十六声 | Android 游戏 | 6 macros, 5 layout modules |
 | PSP 通用 | PSP | 4 macros, 5 layout modules |
 | GBA 通用 | RetroArch (`com.retroarch.aarch64`) | Translation, 3 macros, 5 layout modules |
 
@@ -58,6 +58,19 @@ contents and import behavior remain independent.
 
 Profile bundles are attached to Releases and are intentionally not committed to the
 default branch.
+
+## 自行维护 Catalog
+
+维护者可以直接在 GitHub 网页或本地编辑 `catalog.json`。只修改名称、作者、
+类别、副标题或描述等展示信息时，不需要重新打包 Profile，也不需要发布新版
+Heimdall；保存后在 Heimdall 中刷新目录即可获取更新。
+
+- 保持 `id` 稳定，避免同一条目被识别为新的 Profile。
+- `minVersionCode` 是实际兼容性门槛；`minHeimdallVersion` 是展示给用户的版本文字。
+- 修改图标、主页截图或 Profile 文件时，先上传新文件，再同步更新对应 URL、
+  字节大小和 SHA-256。
+- Profile 文件应先发布为 Release asset，再让 catalog 引用；不要静默覆盖同名
+  Release asset。
 
 ## Integrity
 
