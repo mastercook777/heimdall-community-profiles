@@ -21,10 +21,12 @@
       "minHeimdallVersion": "0.2.0-alpha.1",
       "sha256": "7179e369685e34080e2636097a2b028014372b8ac280beb1ad7881e58a4bcf0d",
       "size": 3794130,
-      "downloads": [{
-        "source": "github",
-        "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/gba-sennen-kazoku.heimdall-profile"
-      }]
+      "downloads": [
+        {
+          "source": "github",
+          "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/gba-sennen-kazoku.heimdall-profile"
+        }
+      ]
     },
     {
       "id": "psp-sotn",
@@ -46,10 +48,12 @@
       "minHeimdallVersion": "0.2.0-alpha.1",
       "sha256": "cebe5349283eb3844c3001d1d1b2761312525fac57fa1253fc5d00b8fa066bb5",
       "size": 1114688,
-      "downloads": [{
-        "source": "github",
-        "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/psp-sotn.heimdall-profile"
-      }]
+      "downloads": [
+        {
+          "source": "github",
+          "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/psp-sotn.heimdall-profile"
+        }
+      ]
     },
     {
       "id": "gba-fire-emblem-sacred-stones",
@@ -71,10 +75,12 @@
       "minHeimdallVersion": "0.2.0-alpha.1",
       "sha256": "318bbcacc1af80edf16bd2c27eeb7c57d1e209bf8ca674261b99fbac60174273",
       "size": 4874918,
-      "downloads": [{
-        "source": "github",
-        "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/gba-fire-emblem-sacred-stones.heimdall-profile"
-      }]
+      "downloads": [
+        {
+          "source": "github",
+          "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/gba-fire-emblem-sacred-stones.heimdall-profile"
+        }
+      ]
     },
     {
       "id": "gba-kirby-amazing-mirror",
@@ -96,10 +102,12 @@
       "minHeimdallVersion": "0.2.0-alpha.1",
       "sha256": "161bbe2454c68478457cd5c946e39a06a804e1cf7f3acb9fcbaefcc625abd3e3",
       "size": 2499558,
-      "downloads": [{
-        "source": "github",
-        "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/gba-kirby-amazing-mirror.heimdall-profile"
-      }]
+      "downloads": [
+        {
+          "source": "github",
+          "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/gba-kirby-amazing-mirror.heimdall-profile"
+        }
+      ]
     },
     {
       "id": "trails-in-the-sky-1st",
@@ -121,10 +129,12 @@
       "minHeimdallVersion": "0.2.0-alpha.1",
       "sha256": "3dd59db0179ddcbfe98477f01c87f9bae2b60ffea0686ee11f451555f03d4c7e",
       "size": 5559009,
-      "downloads": [{
-        "source": "github",
-        "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/trails-in-the-sky-1st.heimdall-profile"
-      }]
+      "downloads": [
+        {
+          "source": "github",
+          "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/trails-in-the-sky-1st.heimdall-profile"
+        }
+      ]
     },
     {
       "id": "delta-force",
@@ -146,10 +156,12 @@
       "minHeimdallVersion": "0.2.0-alpha.1",
       "sha256": "8be7c1f30a932647807d10dc4d1673e1729b4e632b0c7f7a5c8a1b1fec121947",
       "size": 23343,
-      "downloads": [{
-        "source": "github",
-        "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/delta-force.heimdall-profile"
-      }]
+      "downloads": [
+        {
+          "source": "github",
+          "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/delta-force.heimdall-profile"
+        }
+      ]
     },
     {
       "id": "ps2-universal",
@@ -171,10 +183,12 @@
       "minHeimdallVersion": "0.2.0-alpha.1",
       "sha256": "59d5db667f6c4f366630186375d3eaa91bb56e57d74ef0fda2f0b874abbb1bb5",
       "size": 1009892,
-      "downloads": [{
-        "source": "github",
-        "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/ps2-universal.heimdall-profile"
-      }]
+      "downloads": [
+        {
+          "source": "github",
+          "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/ps2-universal.heimdall-profile"
+        }
+      ]
     },
     {
       "id": "where-winds-meet",
@@ -196,10 +210,12 @@
       "minHeimdallVersion": "0.2.0-alpha.1",
       "sha256": "747ead8e519cf16656b87c139b1fefdbba90f4b0c7ff951937ca858c9bf9cfbf",
       "size": 373682,
-      "downloads": [{
-        "source": "github",
-        "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/where-winds-meet.heimdall-profile"
-      }]
+      "downloads": [
+        {
+          "source": "github",
+          "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/where-winds-meet.heimdall-profile"
+        }
+      ]
     },
     {
       "id": "psp-universal",
@@ -221,10 +237,12 @@
       "minHeimdallVersion": "0.2.0-alpha.1",
       "sha256": "55890e54711fad121e78e0ef9b18b39f46c075720bf17cf5f2ca761f148c3ee2",
       "size": 716803,
-      "downloads": [{
-        "source": "github",
-        "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/psp-universal.heimdall-profile"
-      }]
+      "downloads": [
+        {
+          "source": "github",
+          "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/psp-universal.heimdall-profile"
+        }
+      ]
     },
     {
       "id": "gba-universal",
@@ -246,10 +264,36 @@
       "minHeimdallVersion": "0.2.0-alpha.1",
       "sha256": "42413caa992dd7f3935ca9d084e0b42247c82202165b6575a91f246a279eb9c1",
       "size": 1383923,
-      "downloads": [{
-        "source": "github",
-        "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/gba-universal.heimdall-profile"
-      }]
+      "downloads": [
+        {
+          "source": "github",
+          "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/gba-universal.heimdall-profile"
+        }
+      ]
+    },
+    {
+      "id": "diablo-3",
+      "name": "Diablo 3",
+      "author": "mastercook777",
+      "category": "游戏",
+      "subtitle": "Switch",
+      "description": "Diablo 3 下屏布局，包含8个宏和 5 个布局模块。",
+      "minVersionCode": 5,
+      "minHeimdallVersion": "0.2.0-alpha.1",
+      "sha256": "c7799c3749ff4d2031a3f102f72b748f89aff49cc2025e1f5f600df79b4d144d",
+      "size": 511819,
+      "downloads": [
+        {
+          "source": "github",
+          "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/diablo-3-c7799c3749ff.heimdall-profile"
+        }
+      ],
+      "iconSha256": "e16cc605e8062ab1206fdad90774edceea6826817ecfeffbd93d194591b4043e",
+      "iconSize": 287102,
+      "icon": "https://raw.githubusercontent.com/mastercook777/heimdall-community-profiles/main/icons/diablo-3.png",
+      "screenshotSha256": "16fb5c4bc10d914e073f22599a76f61338e3640ff9b8c75ee0669c40b6ae6d77",
+      "screenshotSize": 330575,
+      "screenshot": "https://raw.githubusercontent.com/mastercook777/heimdall-community-profiles/main/screenshots/diablo-3.png"
     }
   ]
 }
