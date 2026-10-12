@@ -342,6 +342,30 @@
       "screenshotSha256": "d4cb48d9948069879183e9b6e5021338e9c38498ef8a9ff770aeb7160c7a24fc",
       "screenshotSize": 107269,
       "screenshot": "https://raw.githubusercontent.com/mastercook777/heimdall-community-profiles/main/screenshots/witcher3ps5.jpg"
+    },
+    {
+      "id": "nfs-underground2",
+      "name": "NFS-Underground2",
+      "author": "mastercook777",
+      "category": "模拟器",
+      "description": "NFS-Underground2 下屏布局，包含 10 个宏和 4 个布局模块。",
+      "minVersionCode": 5,
+      "minHeimdallVersion": "0.2.0-alpha.1",
+      "sha256": "5fa3e20cb895cc39eb4e4cee19e089b8128805eed30a167a712145758b6bbac6",
+      "size": 886323,
+      "downloads": [
+        {
+          "source": "github",
+          "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/nfs-underground2-5fa3e20cb895.heimdall-profile"
+        }
+      ],
+      "iconSha256": "41809be110de0d7151c69dad5474eae65165395e54096684abdaf8ec0ac9c839",
+      "iconSize": 5658,
+      "icon": "https://raw.githubusercontent.com/mastercook777/heimdall-community-profiles/main/icons/nfs-underground2.jpg",
+      "screenshotSha256": "29ac880a9e26ec3b38373173b30dcecb131e41c1a0c47c75fcb1383d8208b083",
+      "screenshotSize": 774645,
+      "screenshot": "https://raw.githubusercontent.com/mastercook777/heimdall-community-profiles/main/screenshots/nfs-underground2.png",
+      "subtitle": "PS2"
     }
   ]
 }
