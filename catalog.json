@@ -318,6 +318,30 @@
       "screenshotSha256": "c681ad62489be117fcb382a6186b673d632a70d9eec4a3dcf8ca0be3fd7a4a00",
       "screenshotSize": 117640,
       "screenshot": "https://raw.githubusercontent.com/mastercook777/heimdall-community-profiles/main/screenshots/profile-b1110352c9.jpg"
+    },
+    {
+      "id": "witcher3ps5",
+      "name": "巫师3",
+      "author": "Jason",
+      "category": "游戏",
+      "description": "巫师3 下屏布局，包含 10 个宏和 5 个布局模块。",
+      "minVersionCode": 5,
+      "minHeimdallVersion": "0.2.0-alpha.1",
+      "sha256": "3bdd08f81cd733f477b15b9a978785c60b3634a54ed98fa7b6ca99e1f8e77897",
+      "size": 2963200,
+      "downloads": [
+        {
+          "source": "github",
+          "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/witcher3ps5-3bdd08f81cd7.heimdall-profile"
+        }
+      ],
+      "iconSha256": "f60e1bc5420c9b4b3db096ba3b8b273733737ed62dce3fcf172d9ce23f5855e3",
+      "iconSize": 18976,
+      "icon": "https://raw.githubusercontent.com/mastercook777/heimdall-community-profiles/main/icons/witcher3ps5.png",
+      "subtitle": "PS5",
+      "screenshotSha256": "d4cb48d9948069879183e9b6e5021338e9c38498ef8a9ff770aeb7160c7a24fc",
+      "screenshotSize": 107269,
+      "screenshot": "https://raw.githubusercontent.com/mastercook777/heimdall-community-profiles/main/screenshots/witcher3ps5.jpg"
     }
   ]
 }
