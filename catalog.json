@@ -294,6 +294,30 @@
       "screenshotSha256": "16fb5c4bc10d914e073f22599a76f61338e3640ff9b8c75ee0669c40b6ae6d77",
       "screenshotSize": 330575,
       "screenshot": "https://raw.githubusercontent.com/mastercook777/heimdall-community-profiles/main/screenshots/diablo-3.png"
+    },
+    {
+      "id": "profile-b1110352c9",
+      "name": "绝区零",
+      "author": "Jason",
+      "category": "游戏",
+      "subtitle": "Android 游戏",
+      "description": "绝区零 下屏布局，包含 6 个宏和 4 个布局模块。",
+      "minVersionCode": 5,
+      "minHeimdallVersion": "0.2.0-alpha.1",
+      "sha256": "a7fcdef2c7b37e552ca84ba06b082a44a13d30ca599dbe372694a25f326ab104",
+      "size": 11523409,
+      "downloads": [
+        {
+          "source": "github",
+          "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/profile-b1110352c9-a7fcdef2c7b3.heimdall-profile"
+        }
+      ],
+      "iconSha256": "949aa6c0bced8faf3b904e0b8752a24d47a0ca48684642144940722c05de6c77",
+      "iconSize": 151056,
+      "icon": "https://raw.githubusercontent.com/mastercook777/heimdall-community-profiles/main/icons/profile-b1110352c9.png",
+      "screenshotSha256": "c681ad62489be117fcb382a6186b673d632a70d9eec4a3dcf8ca0be3fd7a4a00",
+      "screenshotSize": 117640,
+      "screenshot": "https://raw.githubusercontent.com/mastercook777/heimdall-community-profiles/main/screenshots/profile-b1110352c9.jpg"
     }
   ]
 }
