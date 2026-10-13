@@ -366,6 +366,30 @@
       "screenshotSize": 774645,
       "screenshot": "https://raw.githubusercontent.com/mastercook777/heimdall-community-profiles/main/screenshots/nfs-underground2.png",
       "subtitle": "PS2"
+    },
+    {
+      "id": "lolm",
+      "name": "LOLM",
+      "author": "mastercook777",
+      "category": "游戏",
+      "subtitle": "Android 游戏",
+      "description": "LOLM 下屏布局，包含 4 个宏和 3 个布局模块。",
+      "minVersionCode": 5,
+      "minHeimdallVersion": "0.4.0-alpha.1",
+      "sha256": "c686c4dc651e603743a454f383a129ca0107c103ecc438beb93d56c49ac8caf3",
+      "size": 452810,
+      "downloads": [
+        {
+          "source": "github",
+          "url": "https://github.com/mastercook777/heimdall-community-profiles/releases/download/profiles-v1/lolm-c686c4dc651e.heimdall-profile"
+        }
+      ],
+      "iconSha256": "e430744b39cded404ecc89b2d8da252be5d625803ebabc793a8f4419a8e279d9",
+      "iconSize": 286782,
+      "icon": "https://raw.githubusercontent.com/mastercook777/heimdall-community-profiles/main/icons/lolm.png",
+      "screenshotSha256": "2ffe6c4dedee1b27480abae4e87d9559f5413d99038a027fc8338e5175b1cae4",
+      "screenshotSize": 990490,
+      "screenshot": "https://raw.githubusercontent.com/mastercook777/heimdall-community-profiles/main/screenshots/lolm.png"
     }
   ]
 }
